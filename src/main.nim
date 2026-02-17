@@ -1,5 +1,4 @@
 from types/Person import Person
-from ffi/sdl3 import SDL_Init, SDL_Quit, SDL_GetError, SDL_INIT_VIDEO
 
 var child: Person
 var adult: Person

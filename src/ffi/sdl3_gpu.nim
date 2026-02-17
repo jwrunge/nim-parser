@@ -1,1 +1,0 @@
-type SDL_GPUDevice* {.importc: "SDL_GPUDevice", header: "<SDL3/SDL_gpu.h>".} = object

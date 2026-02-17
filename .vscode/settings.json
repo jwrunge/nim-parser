@@ -1,9 +1,8 @@
 {
-  "nim.provider": "nimsuggest",
-  "nim.enableNimsuggest": true,
-  "nim.lintOnSave": true,
+  "nim.lsp.path": "/Users/jacobrunge/.nimble/bin/nimlangserver",
   "nim.project": [
     "src/main.nim"
   ],
-  "nim.useNimCheck": true
+  "nim.useNimCheck": true,
+  "nim.nimbleAutoSetup": true
 }
