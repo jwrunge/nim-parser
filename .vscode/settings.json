@@ -1,0 +1,9 @@
+{
+  "nim.provider": "nimsuggest",
+  "nim.enableNimsuggest": true,
+  "nim.lintOnSave": true,
+  "nim.project": [
+    "src/main.nim"
+  ],
+  "nim.useNimCheck": true
+}
