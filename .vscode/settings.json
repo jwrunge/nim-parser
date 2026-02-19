@@ -1,8 +1,0 @@
-{
-  "nim.lsp.path": "/Users/jacobrunge/.nimble/bin/nimlangserver",
-  "nim.project": [
-    "src/main.nim"
-  ],
-  "nim.useNimCheck": true,
-  "nim.nimbleAutoSetup": true
-}
